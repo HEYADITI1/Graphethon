@@ -13,10 +13,11 @@ The Lost and Found Bulletin Board project is a community-driven initiative that 
 
 
 ### screenshots
-1![image](https://github.com/HEYADITI1/Graphethon/view/Screenshot (290))
-3![image](view\Screenshot (291).png)
-3![image](view\Screenshot (292).png)
-4![image](view\Screenshot (293).png)
-5![image](view\Screenshot (294).png)
-6![image](view\Screenshot (295).png)
+![Screenshot (290)](https://github.com/HEYADITI1/Graphethon/assets/115147637/b4716e8b-2b35-4ccb-af53-e9b128b76fbd)
+![Screenshot (291)](https://github.com/HEYADITI1/Graphethon/assets/115147637/2a9755dc-2bbd-4455-a0c8-183d86acdbfd)
+![Screenshot (292)](https://github.com/HEYADITI1/Graphethon/assets/115147637/af98ce15-0311-424b-92e0-dffb25d0d59b)
+![Screenshot (293)](https://github.com/HEYADITI1/Graphethon/assets/115147637/b4625046-df74-4543-af05-b9f1f56a3032)
+![Screenshot (294)](https://github.com/HEYADITI1/Graphethon/assets/115147637/63c16293-2eca-4438-9df9-22802be79f48)
+![Screenshot (295)](https://github.com/HEYADITI1/Graphethon/assets/115147637/7ca086dc-3050-4f1d-acf9-e56a0eb36dfc)
+
 
