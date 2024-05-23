@@ -13,7 +13,7 @@ The Lost and Found Bulletin Board project is a community-driven initiative that 
 
 
 ### screenshots
-1![image](view\Screenshot (290).png)
+1![image](https://github.com/HEYADITI1/Graphethon/view/Screenshot (290))
 3![image](view\Screenshot (291).png)
 3![image](view\Screenshot (292).png)
 4![image](view\Screenshot (293).png)
